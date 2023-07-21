@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/krAnkit2000/color-identify.git/static/css/main.8abda15a.css",
+    "main.js": "/krAnkit2000/color-identify.git/static/js/main.8263a444.js",
+    "static/js/787.e65b61d4.chunk.js": "/krAnkit2000/color-identify.git/static/js/787.e65b61d4.chunk.js",
+    "index.html": "/krAnkit2000/color-identify.git/index.html",
+    "main.8abda15a.css.map": "/krAnkit2000/color-identify.git/static/css/main.8abda15a.css.map",
+    "main.8263a444.js.map": "/krAnkit2000/color-identify.git/static/js/main.8263a444.js.map",
+    "787.e65b61d4.chunk.js.map": "/krAnkit2000/color-identify.git/static/js/787.e65b61d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8abda15a.css",
+    "static/js/main.8263a444.js"
+  ]
+}
