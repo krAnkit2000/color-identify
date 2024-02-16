@@ -36,18 +36,13 @@ height: 170px;
   box-shadow: 2px 3px 3px  rgb(223, 89, 89);
   
 
-  /* display: flex;
-
-    height: 12rem;
-    overflow: auto; */
+  
 }
 .square p{
  padding: 2px;
   margin: 10px;
   text-align: center;
-  /* box-sizing: border-box;
-  width: 20em;
-  line-break: anywhere; */
+
   overflow: auto;
 }
  
