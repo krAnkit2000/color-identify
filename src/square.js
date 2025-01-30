@@ -5,8 +5,8 @@ const Square = ({colorValue , HexaValue}) => {
     <section
     className="square"
     style={{backgroundColor:colorValue}} >
-    <p>{colorValue? colorValue:"empty value"}</p>
-    <p>{HexaValue ? HexaValue:null}</p>
+    <p>{colorValue? colorValue:"WHITE COLOR"}</p>
+    <p>{HexaValue ? HexaValue:#0000}</p>
     </section>
   )
 }
